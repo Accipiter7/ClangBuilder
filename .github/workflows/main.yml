@@ -24,7 +24,7 @@ jobs:
 
     # Runs a single command using the runners shell
     - name: runner
-      run: bash build.sh
+      run: bash td.sh
 
     
     
